@@ -20,3 +20,4 @@ It subsumes all the taxes that were earlier applicable as `central indirect` tax
 
 ### Union Territory Goods and Services Tax (UTGST)
 Similar to how SGST is levied by the state governments on the intra-state supply of goods and services, UTGST is levied by the handful of `Union Territory governments`.
+---
