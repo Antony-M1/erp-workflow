@@ -36,3 +36,13 @@ Net Pay = Cost of the Product + GST Amount
 ### SGST Vs CGST Vs IGST
 
 The GST to be levied by the Centre on intra state supply of goods and / or services is `Central GST (CGST)` and that by the States is `State GST (SGST)`. On supply of goods and services outside the state, `Integrated GST (IGST)` will be collected by Centre. IGST also applies on `imports` as well.
+
+---
+### GST rates in India
+
+GST rates in India for various goods and services are divided into four slabs:
+* 5% GST
+* 12% GST
+* 18% GST
+* 28% GST
+Since the inception of the Goods and Services Tax, the GST Council has revised the GST rates for various products several times (GST).
