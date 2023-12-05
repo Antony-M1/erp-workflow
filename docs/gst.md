@@ -47,3 +47,16 @@ GST rates in India for various goods and services are divided into four slabs:
 * 28% GST
 
 Since the inception of the Goods and Services Tax, the GST Council has revised the GST rates for various products several times (GST).
+
+---
+
+### How IGST Calculated?
+
+[Document](https://groww.in/p/tax/igst-integrated-goods-and-services-tax)
+
+```
+IGST = CGST + SGST
+```
+But this is just a numerical game. It does not mean that IGST is more expensive.
+
+
