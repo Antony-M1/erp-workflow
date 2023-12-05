@@ -45,5 +45,5 @@ GST rates in India for various goods and services are divided into four slabs:
 * 12% GST
 * 18% GST
 * 28% GST
-  
+
 Since the inception of the Goods and Services Tax, the GST Council has revised the GST rates for various products several times (GST).
