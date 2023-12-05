@@ -5,9 +5,9 @@
 ### What are the 4 types of GST?
 There are Four GST types namely
 * [Integrated Goods and Services Tax (IGST)](#integrated-goods-and-services-tax-igst)
-* State Goods and Services Tax (SGST)
-* Central Goods and Services Tax (CGST)
-* Union Territory Goods and Services Tax (UTGST)
+* [State Goods and Services Tax (SGST)](#state-goods-and-services-tax-sgst)
+* [Central Goods and Services Tax (CGST)](#central-goods-and-services-tax-cgst)
+* [Union Territory Goods and Services Tax (UTGST)](#union-territory-goods-and-services-tax-utgst)
 
 ### Integrated Goods and Services Tax (IGST)
 The GST category applies to taxes levied on interstate purchases or supplies of taxable services and goods and imports of services and goods. The Central Government collects IGST and it is `subsequently distributed` among all the respective `states`.
