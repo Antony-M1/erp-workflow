@@ -32,3 +32,7 @@ GST Amount = Cost of the Product * (GST Percentage / 100)
 ```
 Net Pay = Cost of the Product + GST Amount
 ```
+---
+### SGST Vs CGST Vs IGST
+
+The GST to be levied by the Centre on intra state supply of goods and / or services is `Central GST (CGST)` and that by the States is `State GST (SGST)`. On supply of goods and services outside the state, `Integrated GST (IGST)` will be collected by Centre. IGST also applies on `imports` as well.
