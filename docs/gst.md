@@ -4,7 +4,7 @@
 
 ### What are the 4 types of GST?
 There are Four GST types namely
-* Integrated Goods and Services Tax (IGST)
+* [Integrated Goods and Services Tax (IGST)](#integrated-goods-and-services-tax-igst)
 * State Goods and Services Tax (SGST)
 * Central Goods and Services Tax (CGST)
 * Union Territory Goods and Services Tax (UTGST)
