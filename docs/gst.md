@@ -22,3 +22,13 @@ It subsumes all the taxes that were earlier applicable as `central indirect` tax
 Similar to how SGST is levied by the state governments on the intra-state supply of goods and services, UTGST is levied by the handful of `Union Territory governments`.
 
 ---
+
+### How GST Calculated?
+For example,
+if a product or service costs **Rs.100** and the **GST** levied on that is **18%**, the GST amount will be `100 x 18% = Rs.18`. The net amount you’d have to pay would be Rs. `118`.
+```
+GST Amount = Cost of the Product * (GST Percentage / 100)
+```
+```
+Net Pay = Cost of the Product + GST Amount
+```
