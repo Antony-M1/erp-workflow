@@ -59,4 +59,12 @@ IGST = CGST + SGST
 ```
 But this is just a numerical game. It does not mean that IGST is more expensive.
 
+Let’s take the example of cashew nuts. 
+
+**Interstate**: Cashew nuts attract an IGST of 5% in case of interstate transfer. So if cashew nuts are being sold from Delhi to Agra, traders in Agra will pay the IGST, traders in Delhi will collect it and they pay it to the government
+
+**Intrastate**: In case of transfer within the same state, it will attract a CGST of 2.5% that goes to the central government and SGST of 2.5% that goes to the central government. In total, the tax incidence is 5%.
+
+So, CGST and SGST are two halves of the IGST. This goes the same for all the products.
+
 
