@@ -8,3 +8,15 @@ There are Four GST types namely
 * State Goods and Services Tax (SGST)
 * Central Goods and Services Tax (CGST)
 * Union Territory Goods and Services Tax (UTGST)
+
+### Integrated Goods and Services Tax (IGST)
+The GST category applies to taxes levied on interstate purchases or supplies of taxable services and goods and imports of services and goods. The Central Government collects IGST and it is `subsequently distributed` among all the respective `states`.
+
+### State Goods and Services Tax (SGST)
+Under GST, an equivalent amount of SGST is a tax levied on `intrastate` supplies of both goods and services by the particular state government where the product sold is consumed.
+
+### Central Goods and Services Tax (CGST)
+It subsumes all the taxes that were earlier applicable as `central indirect` taxes. They are levied by the central government for the intrastate movement of goods and services.
+
+### Union Territory Goods and Services Tax (UTGST)
+Similar to how SGST is levied by the state governments on the intra-state supply of goods and services, UTGST is levied by the handful of `Union Territory governments`.
