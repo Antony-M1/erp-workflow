@@ -73,3 +73,7 @@ So, CGST and SGST are two halves of the IGST. This goes the same for all the pro
 ---
 ### Input Tax Credit
 `Input Tax Credit` or `ITC` means the Goods and Services Tax (GST) paid by a taxable person on any purchase of goods and/or services that are used or will be used for business
+
+---
+### RCM
+**Reverse Charge Mechanism** means that GST shall be paid and deposited with the Government by. recipient of Goods / Services and not by Supplier of Goods / Services. As per normal mechanism of levy of GST, the Receiver of Goods / Services pays GST to the Supplier and such supplier then deposits GST with the Government.
