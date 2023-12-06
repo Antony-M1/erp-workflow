@@ -12,6 +12,9 @@ If your business involves physical goods, buying is one of your core business ac
 
 Buying the right quantities in right amounts can affect your cash flow and profitability positively. ERPNext contains a set of transactions that will make your buying process as efficient and seamless as possible.
 
+![image](https://github.com/Antony-M1/erp-workflow/assets/96291963/ec5f6a69-655c-4f21-b805-615c49e73a5d)
+
+
 * [Request for Quotation](https://docs.erpnext.com/docs/user/manual/en/request-for-quotation)
 * [Purchase Order](https://docs.erpnext.com/docs/user/manual/en/purchase-order)
 * [Purchase Taxes and Charges Template](https://docs.erpnext.com/docs/user/manual/en/purchase-taxes-and-charges-template)
