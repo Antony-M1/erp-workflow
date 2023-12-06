@@ -69,4 +69,6 @@ Let’s take the example of cashew nuts.
 
 So, CGST and SGST are two halves of the IGST. This goes the same for all the products.
 
-
+---
+### Input Tax Credit
+`Input Tax Credit` or `ITC` means the Goods and Services Tax (GST) paid by a taxable person on any purchase of goods and/or services that are used or will be used for business
