@@ -22,3 +22,6 @@ Buying the right quantities in right amounts can affect your cash flow and profi
 * [Supplier Quotation](https://docs.erpnext.com/docs/user/manual/en/supplier-quotation)
 * [Supplier Scorecard](https://docs.erpnext.com/docs/user/manual/en/supplier-scorecard)
 * [Buying Reports](https://docs.erpnext.com/docs/user/manual/en/buying_reports)
+
+# ERP Discuss
+* [https://discuss.frappe.io/t/need-erpnext-consultant-paid/114251](https://discuss.frappe.io/t/need-erpnext-consultant-paid/114251)
